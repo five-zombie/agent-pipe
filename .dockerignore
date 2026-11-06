@@ -1,0 +1,10 @@
+.git
+.knowledges
+.agents
+.aws
+.codex
+data
+pipe.config.json
+*.db
+*.db-shm
+*.db-wal

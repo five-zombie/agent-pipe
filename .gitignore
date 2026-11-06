@@ -1,0 +1,8 @@
+.agents/
+.knowledges/
+knl-config.json
+pipe.config.json
+data/
+*.db
+*.db-shm
+*.db-wal
